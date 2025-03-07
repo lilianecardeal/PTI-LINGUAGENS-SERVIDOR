@@ -36,12 +36,6 @@ Abra o navegador e digite:
 
 http://localhost/calculoimc.php
 
-📸 Resultado Esperado
-Após executar, a saída será semelhante a esta:
-
-
-![Resultado do IMC](blob:https://web.whatsapp.com/7b207431-b6f5-4ca4-953c-3123cee73b44)
-
 
 Atenção, seu IMC é 19.5, e você está classificado como Saudável ✅
 
